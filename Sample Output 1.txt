@@ -1,0 +1,56 @@
+Last login: Tue Nov 27 20:18:08 on ttys000
+You have new mail.
+Chinmays-MacBook-Pro:~ Chinmay$ cd Desktop/Coding/Math/
+Chinmays-MacBook-Pro:Math Chinmay$ python3 
+.DS_Store                    Monoply Suprising Proof.log  README.md                    mathExploration.py           
+.git/                        Monoply True Proof.log       Sample Output 2.txt          method1.py                   
+Chinmays-MacBook-Pro:Math Chinmay$ python3 method1.py 
+0 : 1
+12 : 1
+19 : 1
+26 : 1
+33 : 1
+Chinmays-MacBook-Pro:Math Chinmay$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
